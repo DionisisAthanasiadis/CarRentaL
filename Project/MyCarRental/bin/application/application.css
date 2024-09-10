@@ -1,0 +1,13 @@
+.root{
+	-fx-background-image:url("carsbackground.jpg");
+	-fx-background-fills: auto; 
+}
+
+.ManagSystem2{
+	-fx-background-color:silver;
+}
+
+.ManagSystem3{
+	-fx-background-color:silver;
+	
+}
